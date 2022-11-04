@@ -1,0 +1,7 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "editor.useTabStops": true,
+  "gopls": { "ui.semanticTokens": true }
+}
