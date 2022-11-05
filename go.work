@@ -4,5 +4,6 @@ use (
 	./AdapterPattern
 	./BridgePattern
 	./BuilderPattern
+	./MethodChaining
 	./cli
 )
