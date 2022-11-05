@@ -5,6 +5,7 @@ import (
 
 	"github.com/Progyan1997/Design-Patterns-in-Go/AdapterPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/BridgePattern"
+	"github.com/Progyan1997/Design-Patterns-in-Go/BuilderPattern"
 )
 
 func main() {
@@ -13,4 +14,8 @@ func main() {
 	fmt.Println()
 
 	BridgePattern.Main()
+
+	fmt.Println()
+
+	BuilderPattern.Main()
 }
