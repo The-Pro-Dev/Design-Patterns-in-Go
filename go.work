@@ -5,6 +5,7 @@ use (
 	./BridgePattern
 	./BuilderPattern
 	./CommandPattern
+	./DecoratorPattern
 	./MethodChaining
 	./cli
 )
