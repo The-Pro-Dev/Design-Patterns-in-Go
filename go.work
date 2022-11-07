@@ -6,6 +6,7 @@ use (
 	./BuilderPattern
 	./CommandPattern
 	./DecoratorPattern
+	./Facade
 	./MethodChaining
 	./cli
 )
