@@ -7,6 +7,7 @@ import (
 	"github.com/Progyan1997/Design-Patterns-in-Go/CommandPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/DecoratorPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/FacadePattern"
+	"github.com/Progyan1997/Design-Patterns-in-Go/FactoryPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/MethodChaining"
 )
 
@@ -31,9 +32,13 @@ func main() {
 
 	println()
 
-	MethodChaining.Main()
+	FacadePattern.Main()
 
 	println()
 
-	FacadePattern.Main()
+	FactoryPattern.Main()
+
+	println()
+
+	MethodChaining.Main()
 }
