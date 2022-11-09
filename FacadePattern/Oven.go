@@ -1,4 +1,4 @@
-package Facade
+package FacadePattern
 
 type Oven struct {
 }

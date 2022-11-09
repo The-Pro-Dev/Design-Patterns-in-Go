@@ -1,4 +1,4 @@
-package Facade
+package FacadePattern
 
 func MediumFryFacade() {
 	oven := Oven{}

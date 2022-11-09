@@ -1,4 +1,4 @@
-package Facade
+package FacadePattern
 
 type BucketItem struct {
 	name string

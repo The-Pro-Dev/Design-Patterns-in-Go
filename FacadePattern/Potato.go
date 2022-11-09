@@ -1,4 +1,4 @@
-package Facade
+package FacadePattern
 
 type Potato struct {
 	name string

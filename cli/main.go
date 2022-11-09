@@ -6,7 +6,7 @@ import (
 	"github.com/Progyan1997/Design-Patterns-in-Go/BuilderPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/CommandPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/DecoratorPattern"
-	"github.com/Progyan1997/Design-Patterns-in-Go/Facade"
+	"github.com/Progyan1997/Design-Patterns-in-Go/FacadePattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/MethodChaining"
 )
 
@@ -35,5 +35,5 @@ func main() {
 
 	println()
 
-	Facade.Main()
+	FacadePattern.Main()
 }
