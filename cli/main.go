@@ -8,6 +8,7 @@ import (
 	"github.com/Progyan1997/Design-Patterns-in-Go/DecoratorPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/FacadePattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/FactoryPattern"
+	"github.com/Progyan1997/Design-Patterns-in-Go/FlyweightPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/MethodChaining"
 )
 
@@ -37,6 +38,10 @@ func main() {
 	println()
 
 	FactoryPattern.Main()
+
+	println()
+
+	FlyweightPattern.Main()
 
 	println()
 
