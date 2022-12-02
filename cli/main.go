@@ -10,6 +10,7 @@ import (
 	"github.com/Progyan1997/Design-Patterns-in-Go/FactoryPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/FlyweightPattern"
 	"github.com/Progyan1997/Design-Patterns-in-Go/MethodChaining"
+	"github.com/Progyan1997/Design-Patterns-in-Go/SingletonPattern"
 )
 
 func main() {
@@ -46,4 +47,8 @@ func main() {
 	println()
 
 	MethodChaining.Main()
+
+	println()
+
+	SingletonPattern.Main()
 }
