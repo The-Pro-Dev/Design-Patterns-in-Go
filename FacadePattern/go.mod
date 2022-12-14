@@ -1,3 +1,3 @@
-module github.com/Progyan1997/Design-Patterns-in-Go/FacadePattern
+module github.com/0xTheProDev/Design-Patterns-in-Go/FacadePattern
 
 go 1.19

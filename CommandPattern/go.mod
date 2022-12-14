@@ -1,3 +1,3 @@
-module github.com/Progyan1997/Design-Patterns-in-Go/CommandPattern
+module github.com/0xTheProDev/Design-Patterns-in-Go/CommandPattern
 
 go 1.19
