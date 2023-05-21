@@ -9,6 +9,7 @@ import (
 	"github.com/0xTheProDev/Design-Patterns-in-Go/FacadePattern"
 	"github.com/0xTheProDev/Design-Patterns-in-Go/FactoryPattern"
 	"github.com/0xTheProDev/Design-Patterns-in-Go/FlyweightPattern"
+	"github.com/0xTheProDev/Design-Patterns-in-Go/MediatorPattern"
 	"github.com/0xTheProDev/Design-Patterns-in-Go/MethodChaining"
 	"github.com/0xTheProDev/Design-Patterns-in-Go/SingletonPattern"
 )
@@ -43,6 +44,10 @@ func main() {
 	println()
 
 	FlyweightPattern.Main()
+
+	println()
+
+	MediatorPattern.Main()
 
 	println()
 

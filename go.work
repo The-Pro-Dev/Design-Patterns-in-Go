@@ -9,6 +9,7 @@ use (
 	./FacadePattern
 	./FactoryPattern
 	./FlyweightPattern
+	./MediatorPattern
 	./MethodChaining
 	./SingletonPattern
 	./cli
